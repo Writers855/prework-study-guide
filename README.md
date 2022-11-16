@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-Each section provides notes on topics covered as reference tool for looking back on later
+Each section provides notes on topics covered as reference tool for looking back on later. To view javascript in operation open the inspect panel on chrome and click console
 
 ## Credits
 
